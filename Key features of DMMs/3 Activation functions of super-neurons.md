@@ -1,4 +1,4 @@
-A wide range of activation functions transforming linear streams is possible.
+**A wide range of activation functions transforming linear streams is possible.**
 
 On one end, standard simple activation functions like identity and coordinate-wise ReLU are available. On the other end of complexity, a super-neuron can wrap any piece of software as long as the input and output communications are via linear streams.
 
