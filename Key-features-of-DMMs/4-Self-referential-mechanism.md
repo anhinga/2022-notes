@@ -10,7 +10,7 @@ The newly created connectivity matrix is just one of the neuron outputs, so alon
 
 This allows the network to analyze its own connectivity and to use its own connectivity structure in various ways, in addition to using it directly during the second phase of a two-stroke cycle.
 
-A tutorial is here: [2021 self transforming neural machines tutorial](https://github.com/anhinga/2021-notes/tree/main/self-transforming-neural-machines/tutorial "2021-notes/self-transforming-neural-machines/tutorial at main · anhinga/2021-notes")\
+A tutorial is here: [2021 self transforming neural machines tutorial](https://github.com/anhinga/2021-notes/tree/main/self-transforming-neural-machines/tutorial)
 
 
 We used this self-referential mechanism in our open-source experiments to
