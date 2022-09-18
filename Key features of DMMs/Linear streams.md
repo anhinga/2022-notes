@@ -1,4 +1,4 @@
-Linear streams are data streams which one can combine with numerical coefficients.&#x20;
+**Linear streams are data streams which one can combine with numerical coefficients.**
 
 We tend to use real numbers, but other numerical coefficients can also be used (e.g. complex).
 
