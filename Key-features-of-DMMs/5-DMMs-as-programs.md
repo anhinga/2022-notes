@@ -1,4 +1,4 @@
-**DMMs as continuously deformable programs**
+## DMMs as continuously deformable programs
 
 We can think of a space with unlimited ambient supply of silent neurons with every kind of possible activation function, and we can consider countable connectivity matrices with finite number of non-zero elements (the infinite silent network with finite active part), and continuous deformations of those matrices are continuous deformations of the corresponding programs.
 
