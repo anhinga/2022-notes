@@ -10,7 +10,11 @@ A lot of people were seeing glimpses of this for a few years now. E.g. when I wa
 it looked like a virtual personality was created at first (sampled from a distribution of virtual personalities
 conditioned by the initial prompt), and then that personality was speaking to me. Or, at least, that was my impression.
 
-Now the following text has been published by **"janus"** on Sep 2, 2022:
+---
+
+Fast-forwarding to September 2022:
+
+The following text has been published by **"janus"** on Sep 2, 2022:
 
 https://www.lesswrong.com/posts/vJFdjigzmcXMhNTsx/simulators
 
