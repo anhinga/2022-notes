@@ -22,3 +22,22 @@ according to physics can be simulated by the physics rule parameterized by an in
 agents with different values, or non-agentic phenomena like rocks. This ontological distinction between simulator (rule) and
 simulacra (phenomena) applies directly to generative models like GPT.
 ```
+
+---
+
+Commenting the famous "The Unreasonable Effectiveness of Recurrent Neural Networks" by Karpathy (2015, 581 citations on Google Scholar at the moment):
+
+```
+Char-RNNs were like ouija boards, but actually possessed by a low-fidelity ghost summoned from a text corpus. 
+I remember being thrilled by the occasional glimmers of semantic comprehension in a domain of unbounded constructive meaning.
+```
+
+And then commenting on https://www.gwern.net/GPT-3
+
+```
+Perhaps I could have started thinking several years earlier about what now seems so fantastically important. 
+But it wasn’t until GPT-3, when I saw the qualitative correlate of “loss going down”, that I updated.
+```
+
+(Same here, but what convinced me was an example of competent Python code-generation from linguistic hints
+in their famous demo: https://twitter.com/matvelloso/status/1263193089310461952)
