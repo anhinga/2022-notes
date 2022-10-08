@@ -41,3 +41,20 @@ But it wasn’t until GPT-3, when I saw the qualitative correlate of “loss goi
 
 (Same here, but what convinced me was an example of competent Python code-generation from linguistic hints
 in their famous demo: https://twitter.com/matvelloso/status/1263193089310461952)
+
+---
+
+"In retrospect, an exploration of the _limits_ of language modeling should have read something more like:
+
+```
+If loss keeps going down on the test set, in the limit – putting aside whether the current paradigm can approach it – 
+the model must be learning to interpret and predict all patterns represented in language, including 
+common-sense reasoning, goal-directed optimization, and deployment of the sum of recorded human knowledge. 
+Its outputs would behave as intelligent entities in their own right. You could converse with it by alternately generating 
+and adding your responses to its prompt, and it would pass the Turing test. In fact, you could condition it to generate 
+interactive and autonomous versions of any real or fictional person who has been recorded in the training corpus
+or even _could_ be recorded (in the sense that the record counterfactually “could be” in the test set). 
+Oh shit, and it could write code…
+```
+"
+
