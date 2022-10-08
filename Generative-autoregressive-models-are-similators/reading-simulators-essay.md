@@ -65,7 +65,8 @@ Oh shit, and it could write code…
 https://www.lesswrong.com/posts/YJRb6wRHp7k39v69n/implications-of-gpt-2
 
 ```
-I was impressed by GPT-2, to the point where I wouldn’t be surprised if a future version of it could be used pivotally using existing protocols.
+I was impressed by GPT-2, to the point where I wouldn’t be surprised if a future version of it could be used pivotally using
+existing protocols.
 
 Consider generating half of a Turing test transcript, the other half being supplied by a human judge. 
 If this passes, we could immediately implement an HCH of AI safety researchers solving the problem if it’s within our reach at all. 
@@ -73,6 +74,7 @@ If this passes, we could immediately implement an HCH of AI safety researchers s
 
 This might not be the first pivotal application of language models that becomes possible as they get stronger.
 
-It’s a source of superintelligence that doesn’t automatically run into utility maximizers. It sure doesn’t look like AI services, lumpy or no.
+It’s a source of superintelligence that doesn’t automatically run into utility maximizers. It sure doesn’t look like AI services,
+lumpy or no.
 ```
 
