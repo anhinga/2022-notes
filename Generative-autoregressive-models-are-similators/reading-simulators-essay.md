@@ -149,4 +149,9 @@ I do not think any simple modification of the concept of an agent captures GPTâ€
 [15] "Having spoken to Gwern since, his perspective seems more akin to seeing physics as an agent that minimizes free energy, a principle which extends into the domain of self-organizing systems. I think this is a nuanced and valuable framing, with a potential implication/hypothesis that dynamical world models like GPT must learn the same type of optimizer-y cognition as agentic AI."
 
 ---
+---
+
+## Oracles
+
+"While the alignment sphere favors the agent frame for thinking about GPT, in _capabilities_ research distortions tend to come from a lens inherited from _supervised learning_. Translated into alignment ontology, the effect is similar to viewing GPT as an _'oracle AI'_"
 
