@@ -179,3 +179,11 @@ including ones that don’t exist in training, but adhere to its general pattern
 ```
 
 ---
+
+"GPT does not consistently try to say true/correct things. This is not a bug – if it had to say true things all the time, GPT would be much constrained in its ability to imitate Twitter celebrities and write fiction. Spouting falsehoods in some circumstances is incentivized by GPT’s outer objective. If you ask GPT a question, it will instead answer the question “what’s the next token after ‘{your question}’”, which will often diverge significantly from an earnest attempt to answer the question directly.
+
+GPT doesn’t fit the category of oracle for a similar reason that it doesn’t fit the category of agent. Just as it wasn’t optimized for and doesn’t consistently act according to any particular objective (except the tautological prediction objective), it was not optimized to be correct but rather realistic, and being realistic means predicting humans faithfully even when they are likely to be wrong.
+
+That said, GPT does store a vast amount of knowledge, and its corrigibility allows it to be cajoled into acting as an oracle, like it can be cajoled into acting like an agent. In order to get oracle behavior out of GPT, one must input a sequence such that the predicted continuation of that sequence coincides with an oracle’s output. The GPT-3 paper’s few-shot benchmarking strategy tries to persuade GPT-3 to answer questions correctly by having it predict how a list of correctly-answered questions will continue. Another strategy is to simply “tell” GPT it’s in the oracle modality"
+
+---
