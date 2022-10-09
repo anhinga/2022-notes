@@ -93,3 +93,13 @@ that we should assess for agency, consciousness, and so on.
 https://dailynous.com/2020/07/30/philosophers-gpt-3/#chalmers
 
 ---
+
+### Fluid ephemeral agents
+
+"Presently, GPT is the only way to instantiate agentic AI that behaves capably outside toy domains. These intelligences exhibit goal-directedness; they can plan; they can form and test hypotheses; they can persuade and be persuaded. It would not be very dignified of us to gloss over the sudden arrival of artificial agents _often indistinguishable from human intelligence_ just because the policy that generates them “only cares about predicting the next word”.
+
+But nor should we ignore the fact that these agentic entities exist in an unconventional relationship to the policy, the neural network “GPT” that was trained to minimize log-loss on a dataset. GPT-driven agents are ephemeral – they can spontaneously disappear if the scene in the text changes and be replaced by different spontaneously generated agents. They can exist in parallel, e.g. in a story with multiple agentic characters in the same scene. There is a clear sense in which the network doesn’t “want” what the things that it simulates want, seeing as it would be just as willing to simulate an agent with opposite goals, or throw up obstacles which foil a character’s intentions for the sake of the story. The more you think about it, the more fluid and intractable it all becomes. Fictional characters act agentically, but they’re at least implicitly puppeteered by a virtual author who has orthogonal intentions of their own. Don’t let me get into the fact that all these layers of “intentionality” operate largely in [indeterminate superpositions](https://generative.ink/posts/language-models-are-multiverse-generators/#multiplicity-of-pasts-presents-and-futures)."
+
+The last link is in https://generative.ink/posts/language-models-are-multiverse-generators/
+
+---
