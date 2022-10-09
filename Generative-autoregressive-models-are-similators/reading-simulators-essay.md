@@ -127,3 +127,24 @@ For instance, during GPT’s training, sometimes predicting the next token coinc
       Utility maximizers aren’t supposed to become more stochastic in response to uncertainty."
     
 ---
+
+"**In the agentic AI ontology, the direction of optimization pressure applied by training is in the direction of the effective agent’s objective function, but in GPT’s case it is (most generally) orthogonal.**
+
+This means that neither the policy nor the effective agents necessarily become more optimal agents as loss goes down, because the policy is not optimized to be an agent, and the agent-objectives are not optimized directly."
+
+---
+
+"Even though neither GPT’s behavior nor its training story fit with the traditional agent framing, there are still compatibilist views that characterize it as some kind of agent. For example, Gwern has said[13] that anyone who uses GPT for long enough begins to think of it as an agent who only cares about roleplaying a lot of roles.
+
+That framing seems unnatural to me, comparable to thinking of physics as an agent who only cares about evolving the universe accurately according to the laws of physics. At best, the agent is an epicycle; but it is also compatible with interpretations that generate dubious predictions.
+
+...
+
+Saying that GPT is an agent who wants to roleplay implies the presence of a coherent, unconditionally instantiated roleplayer running the show who attaches terminal value to roleplaying. This presence is an additional hypothesis, and so far, I haven’t noticed evidence that it’s true.
+
+(I don’t mean to imply that Gwern thinks this about GPT[15], just that his words do not properly rule out this interpretation. It’s a likely enough interpretation that ruling it out is important: I’ve seen multiple people suggest that GPT might want to generate text which makes future predictions easier, and this is something that can happen in some forms of self-supervised learning – see the note on GANs in the appendix.)
+
+I do not think any simple modification of the concept of an agent captures GPT’s natural category. It does not seem to me that GPT is a roleplayer, only that it roleplays. But what is the word for something that roleplays minus the implication that someone is behind the mask?"
+
+---
+
