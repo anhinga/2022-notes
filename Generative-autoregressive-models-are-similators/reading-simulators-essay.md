@@ -116,9 +116,14 @@ This is a corollary of the classical _orthogonality thesis_, which states that a
 
 For instance, during GPT’s training, sometimes predicting the next token coincides with predicting agentic behavior, but:
 
-    * The actions of agents described in the data are rarely optimal for their goals; humans, for instance, are computationally bounded, irrational, normative, habitual, fickle, hallucinatory, etc.
-    * Different prediction steps involve mutually incoherent goals, as human text records a wide range of differently-motivated agentic behavior
-    * Many prediction steps don’t correspond to the action of any consequentialist agent but are better described as reporting on the structure of reality, e.g. the year in a timestamp. These transitions incentivize GPT to improve its model of the world, orthogonally to agentic objectives.
-    * When there is insufficient information to predict the next token with certainty, log-loss incentivizes a probabilistic output. Utility maximizers aren’t supposed to become more stochastic in response to uncertainty."
+    * The actions of agents described in the data are rarely optimal for their goals; humans, for instance, are computationally bounded,
+      irrational, normative, habitual, fickle, hallucinatory, etc.
+    * Different prediction steps involve mutually incoherent goals, as human text records a wide range of differently-motivated
+      agentic behavior
+    * Many prediction steps don’t correspond to the action of any consequentialist agent but are better described as reporting on 
+      the structure of reality, e.g. the year in a timestamp. These transitions incentivize GPT to improve its model of the world,
+      orthogonally to agentic objectives.
+    * When there is insufficient information to predict the next token with certainty, log-loss incentivizes a probabilistic output. 
+      Utility maximizers aren’t supposed to become more stochastic in response to uncertainty."
     
 ---
