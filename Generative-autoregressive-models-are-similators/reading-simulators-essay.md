@@ -81,6 +81,8 @@ lumpy or no.
 ---
 ---
 
+## Agents
+
 David Chalmers lucidly observed that the policy’s relation to agents is like that of a “chameleon” or “engine”:
 
 ```
