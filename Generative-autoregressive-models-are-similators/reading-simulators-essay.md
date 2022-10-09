@@ -160,3 +160,11 @@ I do not think any simple modification of the concept of an agent captures GPT�
 Of all the possible papers that could have been written about GPT-3, OpenAI showcased its ability to extrapolate the pattern of question-answer pairs (few-shot prompts) from supervised learning datasets, a novel capability they called “meta-learning”. **This is a weirdly specific and indirect way to break it to the world that you’ve created an AI able to extrapolate semantics of arbitrary natural language structures**, especially considering that in many cases the few-shot prompts were actually unnecessary." (_"Prompt Programming for Large Language Models: Beyond the Few-Shot Paradigm"_, https://arxiv.org/abs/2102.07350, by Janus and a co-author)
 
 ---
+
+GPT-3 about itself:
+
+```
+At first glance, GPT might resemble a generic “oracle AI”, because it is trained to make accurate predictions. But its log loss objective is myopic and only concerned with immediate, micro-scale correct prediction of the next token, not answering particular, global queries such as “what’s the best way to fix the climate in the next five years?” In fact, it is not specifically optimized to give true answers, which a classical oracle should strive for, but rather to minimize the divergence between predictions and training examples, independent of truth. Moreover, it isn’t specifically trained to give answers in the first place! It may give answers if the prompt asks questions, but it may also simply elaborate on the prompt without answering any question, or tell the rest of a story implied in the prompt. What it does is more like animation than divination, executing the dynamical laws of its rendering engine to recreate the flows of history found in its training data (and a large superset of them as well), mutatis mutandis. Given the same laws of physics, one can build a multitude of different backgrounds and props to create different storystages, including ones that don’t exist in training, but adhere to its general pattern.
+```
+
+---
