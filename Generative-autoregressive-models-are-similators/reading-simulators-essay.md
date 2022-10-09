@@ -134,7 +134,7 @@ This means that neither the policy nor the effective agents necessarily become m
 
 ---
 
-"Even though neither GPT’s behavior nor its training story fit with the traditional agent framing, there are still compatibilist views that characterize it as some kind of agent. For example, Gwern has said[13] that anyone who uses GPT for long enough begins to think of it as an agent who only cares about roleplaying a lot of roles.
+"Even though neither GPT’s behavior nor its training story fit with the traditional agent framing, there are still compatibilist views that characterize it as some kind of agent. For example, Gwern has said that anyone who uses GPT for long enough begins to think of it as an agent who only cares about roleplaying a lot of roles.
 
 That framing seems unnatural to me, comparable to thinking of physics as an agent who only cares about evolving the universe accurately according to the laws of physics. At best, the agent is an epicycle; but it is also compatible with interpretations that generate dubious predictions.
 
@@ -145,6 +145,8 @@ Saying that GPT is an agent who wants to roleplay implies the presence of a cohe
 (I don’t mean to imply that Gwern thinks this about GPT[15], just that his words do not properly rule out this interpretation. It’s a likely enough interpretation that ruling it out is important: I’ve seen multiple people suggest that GPT might want to generate text which makes future predictions easier, and this is something that can happen in some forms of self-supervised learning – see the note on GANs in the appendix.)
 
 I do not think any simple modification of the concept of an agent captures GPT’s natural category. It does not seem to me that GPT is a roleplayer, only that it roleplays. But what is the word for something that roleplays minus the implication that someone is behind the mask?"
+
+[15] "Having spoken to Gwern since, his perspective seems more akin to seeing physics as an agent that minimizes free energy, a principle which extends into the domain of self-organizing systems. I think this is a nuanced and valuable framing, with a potential implication/hypothesis that dynamical world models like GPT must learn the same type of optimizer-y cognition as agentic AI."
 
 ---
 
