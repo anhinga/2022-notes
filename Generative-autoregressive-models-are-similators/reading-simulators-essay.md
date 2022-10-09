@@ -203,3 +203,10 @@ As nostalgebraist elegantly puts it (https://slatestarcodex.com/2020/06/10/the-o
 "Not only does the supervised/oracle perspective obscure the importance and limitations of prompting, it also obscures one of the most crucial dimensions of GPT: the implicit time dimension. By this I mean the ability to evolve a process through time by recursively applying GPT, that is, generate text of arbitrary length."
 
 ---
+
+Benchmarks derived from supervised learning test GPT’s ability to produce correct answers, not to produce questions which cause it to produce a correct answer down the line. But GPT is capable of the latter, and that is how it is the _most powerful_:
+
+https://ai.googleblog.com/2022/05/language-models-perform-reasoning-via.html "Language Models Perform Reasoning via Chain of Thought"
+
+---
+
