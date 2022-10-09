@@ -111,3 +111,14 @@ The last link is in https://generative.ink/posts/language-models-are-multiverse-
 This is a corollary of the classical _orthogonality thesis_, which states that agents can have any combination of intelligence level and goal, combined with the assumption that agents can in principle be predicted. A single predictive model may also predict multiple agents, either independently (e.g. in different conditions), or interacting in a multi-agent simulation. A more optimal predictor is not restricted to predicting more optimal agents: being smarter does not make you unable to predict stupid systems, nor things that aren’t agentic like the weather."
 
 ---
+
+"We can specify some types of outer objectives using a ground truth distribution that we cannot with a utility function. As in the case of GPT, there is no difficulty in incentivizing a model to _predict_ actions that are corrigible, incoherent, stochastic, irrational, or otherwise anti-natural to expected utility maximization. All you need is evidence of a distribution exhibiting these properties.
+
+For instance, during GPT’s training, sometimes predicting the next token coincides with predicting agentic behavior, but:
+
+    * The actions of agents described in the data are rarely optimal for their goals; humans, for instance, are computationally bounded, irrational, normative, habitual, fickle, hallucinatory, etc.
+    * Different prediction steps involve mutually incoherent goals, as human text records a wide range of differently-motivated agentic behavior
+    * Many prediction steps don’t correspond to the action of any consequentialist agent but are better described as reporting on the structure of reality, e.g. the year in a timestamp. These transitions incentivize GPT to improve its model of the world, orthogonally to agentic objectives.
+    * When there is insufficient information to predict the next token with certainty, log-loss incentivizes a probabilistic output. Utility maximizers aren’t supposed to become more stochastic in response to uncertainty."
+    
+---
