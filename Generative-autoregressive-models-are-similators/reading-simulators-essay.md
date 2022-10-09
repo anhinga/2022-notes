@@ -105,3 +105,9 @@ But nor should we ignore the fact that these agentic entities exist in an unconv
 The last link is in https://generative.ink/posts/language-models-are-multiverse-generators/
 
 ---
+
+"In general, the model’s prediction vector could point in any direction relative to the predicted agent’s interests. I call this the **prediction orthogonality thesis:** _A model whose objective is prediction[11] can simulate agents who optimize toward any objectives, with any degree of optimality (bounded above but not below by the model’s power)._
+
+This is a corollary of the classical _orthogonality thesis_, which states that agents can have any combination of intelligence level and goal, combined with the assumption that agents can in principle be predicted. A single predictive model may also predict multiple agents, either independently (e.g. in different conditions), or interacting in a multi-agent simulation. A more optimal predictor is not restricted to predicting more optimal agents: being smarter does not make you unable to predict stupid systems, nor things that aren’t agentic like the weather."
+
+---
