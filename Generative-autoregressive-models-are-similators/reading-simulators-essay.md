@@ -225,3 +225,20 @@ https://generative.ink/posts/methods-of-prompt-programming/#avoiding-rationaliza
 **I’m looking for a way to classify GPT which not only minimizes surprise but also conditions the imagination to efficiently generate good ideas for how it can be used. What category, unlike the category of oracles, would make the importance of _process_ specification obvious?**
 
 ---
+
+### Paradigms of theory vs practice
+
+"Both the agent frame and the supervised/oracle frame are historical artifacts, but while assumptions about agency primarily flow downward from the preceptial paradigm of alignment theory, oracle-assumptions primarily flow upward from the experimental paradigm surrounding GPT’s birth. We use and evaluate GPT like an oracle, and that causes us to implicitly think of it as an oracle."
+
+---
+
+"All these are consequences of how we choose to interact with GPT – which is not arbitrary; the way we deploy systems is guided by their nature. It’s for some good reasons that current GPTs lend to disembodied operation and docile APIs. Lack of long-horizon coherence and _delusions_ ("Shaking the foundations: delusions in sequence models for interaction and control", https://arxiv.org/abs/2110.10819) discourage humans from letting them run autonomously amok (usually). But the way we deploy systems is also guided by practical paradigms.
+
+One way to find out how a technology can be used is to give it to people who have less preconceptions about how it’s supposed to be used. OpenAI found that most users use their API to generate freeform text ...
+
+Most of my own experience using GPT-3 has consisted of simulating indefinite processes which maintain state continuity over up to hundreds of pages. I was driven to these lengths because GPT-3 kept answering its own questions with questions that I wanted to ask it more than anything else I had in mind."
+
+---
+---
+
+## Tool / Genie
