@@ -187,3 +187,10 @@ GPT doesn’t fit the category of oracle for a similar reason that it doesn’t 
 That said, GPT does store a vast amount of knowledge, and its corrigibility allows it to be cajoled into acting as an oracle, like it can be cajoled into acting like an agent. In order to get oracle behavior out of GPT, one must input a sequence such that the predicted continuation of that sequence coincides with an oracle’s output. The GPT-3 paper’s few-shot benchmarking strategy tries to persuade GPT-3 to answer questions correctly by having it predict how a list of correctly-answered questions will continue. Another strategy is to simply “tell” GPT it’s in the oracle modality"
 
 ---
+
+As nostalgebraist elegantly puts it (https://slatestarcodex.com/2020/06/10/the-obligatory-gpt-3-post/#comment-912529):
+
+"I called GPT-3 a “disappointing paper,” which is not the same thing as calling the model disappointing: the feeling is more like how I’d feel if they found a superintelligent alien and chose only to communicate its abilities by noting that, when the alien is blackout drunk and playing 8 simultaneous games of chess while also taking an IQ test, it _then_ has an “IQ” of about 100."
+
+---
+
