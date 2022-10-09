@@ -210,3 +210,18 @@ https://ai.googleblog.com/2022/05/language-models-perform-reasoning-via.html "La
 
 ---
 
+"Conditioning Generative Models", https://www.lesswrong.com/posts/nXeLPcT9uhfG3TMPS/conditioning-generative-models
+
+---
+
+"There are various problems with this approach to solving alignment, of which I’ll only mention one here: even assuming this prompt is outer aligned[19] in that a logically omniscient GPT would give a useful answer, it is probably not the best approach for a finitely powerful GPT, because the process of generating a solution in the order and resolution that would appear in a future article is probably far from the optimal multi-step algorithm for computing the answer to an unsolved, difficult question.
+
+GPTs ability to arrive at true answers depends on not only the space to solve a problem in multiple steps (of the right granularity, https://blog.eleuther.ai/factored-cognition/), but also the direction of the flow of evidence in that time. If we’re ambitious about getting the truth from a finitely powerful GPT, we need to incite it to predict truth-seeking processes, not just ask it the right questions. Or, in other words, the more general problem we have to solve is not asking GPT the question[20] that makes it output the right answer, but asking GPT the question that makes it output the right question (…) that makes it output the right answer.[21] A question anywhere along the line that elicits a premature attempt at an answer could neutralize the remainder of the process into rationalization."
+
+https://generative.ink/posts/methods-of-prompt-programming/#avoiding-rationalization
+
+---
+
+**I’m looking for a way to classify GPT which not only minimizes surprise but also conditions the imagination to efficiently generate good ideas for how it can be used. What category, unlike the category of oracles, would make the importance of _process_ specification obvious?**
+
+---
