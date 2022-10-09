@@ -153,5 +153,10 @@ I do not think any simple modification of the concept of an agent captures GPT�
 
 ## Oracles
 
-"While the alignment sphere favors the agent frame for thinking about GPT, in _capabilities_ research distortions tend to come from a lens inherited from _supervised learning_. Translated into alignment ontology, the effect is similar to viewing GPT as an _'oracle AI'_"
+"While the alignment sphere favors the agent frame for thinking about GPT, in _capabilities_ research distortions tend to come from a lens inherited from _supervised learning_. Translated into alignment ontology, the effect is similar to viewing GPT as an _'oracle AI'_ "
 
+"The fact that large pretrained models performed well on these same NLP benchmarks without supervised fine-tuning was a novelty. The titles of the GPT-2 and GPT-3 papers, _Language Models are Unsupervised Multitask Learners_ and _Language Models are Few-Shot Learners_, respectively articulate surprise that self-supervised models implicitly learn supervised tasks during training, and can learn supervised tasks at runtime.
+
+Of all the possible papers that could have been written about GPT-3, OpenAI showcased its ability to extrapolate the pattern of question-answer pairs (few-shot prompts) from supervised learning datasets, a novel capability they called “meta-learning”. **This is a weirdly specific and indirect way to break it to the world that you’ve created an AI able to extrapolate semantics of arbitrary natural language structures**, especially considering that in many cases the few-shot prompts were actually unnecessary." ("Prompt Programming for Large Language Models: Beyond the Few-Shot Paradigm", https://arxiv.org/abs/2102.07350, by Janus and a co-author)
+
+---
