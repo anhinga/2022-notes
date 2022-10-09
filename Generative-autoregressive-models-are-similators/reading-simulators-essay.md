@@ -194,3 +194,12 @@ As nostalgebraist elegantly puts it (https://slatestarcodex.com/2020/06/10/the-o
 
 ---
 
+"Treating GPT as an unsupervised implementation of a supervised learner leads to systematic underestimation of capabilities, which becomes a more dangerous mistake as unprobed capabilities scale."
+
+---
+
+### Finite vs infinite questions
+
+"Not only does the supervised/oracle perspective obscure the importance and limitations of prompting, it also obscures one of the most crucial dimensions of GPT: the implicit time dimension. By this I mean the ability to evolve a process through time by recursively applying GPT, that is, generate text of arbitrary length."
+
+---
