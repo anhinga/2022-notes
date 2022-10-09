@@ -78,3 +78,18 @@ It’s a source of superintelligence that doesn’t automatically run into utili
 lumpy or no.
 ```
 
+---
+---
+
+David Chalmers lucidly observed that the policy’s relation to agents is like that of a “chameleon” or “engine”:
+
+```
+GPT-3 does not look much like an agent. It does not seem to have goals or preferences beyond completing text,
+for example. It is more like a chameleon that can take the shape of many different agents. 
+Or perhaps it is an engine that can be used under the hood to drive many agents. But it is then perhaps these systems 
+that we should assess for agency, consciousness, and so on.
+```
+
+https://dailynous.com/2020/07/30/philosophers-gpt-3/#chalmers
+
+---
