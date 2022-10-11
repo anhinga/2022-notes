@@ -242,3 +242,18 @@ One way to find out how a technology can be used is to give it to people who hav
 ---
 
 ## Tool / Genie
+
+A short section; can be read or skipped.
+
+---
+---
+
+## Behavior cloning / mimicry
+
+"Behavior cloning in its historical usage carries the implicit or explicit assumption that a single agent is being cloned. **The natural extension of this to a model trained to predict a diverse human-written dataset might be to say that GPT models a distribution of agents which are selected by the prompt.** But this image of “parameterized” behavior cloning still fails to capture some essential properties of GPT."
+
+The sentence I bold-face here is, essentially, what has been my model of GPT behavior until now.
+
+"The vast majority of prompts that produce coherent behavior never occur as prefixes in GPT’s training data, but depict hypothetical processes whose behavior can be predicted by virtue of being capable at predicting language in general. We might call this phenomenon “interpolation” (or _“extrapolation”_, https://arxiv.org/abs/2110.09485, "Learning in High Dimension Always Amounts to Extrapolation"). But to hide it behind any one word and move on would be to gloss over _the entire phenomenon of GPT_."
+
+"Natural language has the property of _systematicity_ (https://evjang.com/2021/12/17/lang-generalization.html, "To Understand Language is to Understand Generalization"): “blocks”, such as words, can be combined to form composite meanings. The number of meanings expressible is a combinatorial function of available blocks. A system which learns natural language is incentivized to learn systematicity; if it succeeds, it gains access to the combinatorial proliferation of meanings that can be expressed in natural language. What GPT lets us do is use natural language to specify any of a functional infinity of configurations, e.g. the mental contents of a person and the physical contents of the room around them, and animate that. That is the terrifying vision of the limit of prediction that struck me when I first saw GPT-3’s outputs. The words “behavior cloning” do not automatically evoke this in my mind."
