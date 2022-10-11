@@ -256,4 +256,23 @@ The sentence I bold-face here is, essentially, what has been my model of GPT beh
 
 "The vast majority of prompts that produce coherent behavior never occur as prefixes in GPT’s training data, but depict hypothetical processes whose behavior can be predicted by virtue of being capable at predicting language in general. We might call this phenomenon “interpolation” (or _“extrapolation”_, https://arxiv.org/abs/2110.09485, "Learning in High Dimension Always Amounts to Extrapolation"). But to hide it behind any one word and move on would be to gloss over _the entire phenomenon of GPT_."
 
-"Natural language has the property of _systematicity_ (https://evjang.com/2021/12/17/lang-generalization.html, "To Understand Language is to Understand Generalization"): “blocks”, such as words, can be combined to form composite meanings. The number of meanings expressible is a combinatorial function of available blocks. A system which learns natural language is incentivized to learn systematicity; if it succeeds, it gains access to the combinatorial proliferation of meanings that can be expressed in natural language. What GPT lets us do is use natural language to specify any of a functional infinity of configurations, e.g. the mental contents of a person and the physical contents of the room around them, and animate that. That is the terrifying vision of the limit of prediction that struck me when I first saw GPT-3’s outputs. The words “behavior cloning” do not automatically evoke this in my mind."
+"Natural language has the property of _systematicity_ (https://evjang.com/2021/12/17/lang-generalization.html, "To Understand Language is to Understand Generalization"): “blocks”, such as words, can be combined to form composite meanings. The number of meanings expressible is a combinatorial function of available blocks. A system which learns natural language is incentivized to learn systematicity; if it succeeds, it gains access to the combinatorial proliferation of meanings that can be expressed in natural language. What GPT lets us do is use natural language to specify any of a functional infinity of configurations, e.g. the mental contents of a person and the physical contents of the room around them, _and animate that_. That is the terrifying vision of the limit of prediction that struck me when I first saw GPT-3’s outputs. The words “behavior cloning” do not automatically evoke this in my mind."
+
+And further elaborating:
+
+"Behavior cloning / mimicry is also associated with the assumption that capabilities of the simulated processes are strictly bounded by the capabilities of the demonstrator(s). A supreme counterexample is the _Decision Transformer_, which can be used to run processes which achieve SOTA for reinforcement learning despite being trained on _random_ trajectories. Something which can predict everything all the time is more formidable than any demonstrator it predicts: the upper bound of what can be learned from a dataset is not the most capable trajectory, but the conditional structure of the universe implicated by their sum (though it may not be trivial to _extract that knowledge_)."
+
+"Extrapolating the idea of “behavior cloning”, we might imagine GPT-N approaching a perfect mimic which serves up digital clones of the people and things captured in its training data. But that only tells a very small part of the story. GPT is behavior cloning. But it is the behavior of a universe that is cloned, not of a single demonstrator, and the result isn’t a static copy of the universe, but a _compression of the universe into a generative rule_. This resulting policy is capable of animating anything that evolves according to that rule: a far larger set than the sampled trajectories included in the training data, just as there are many more possible configurations that evolve according to our laws of physics than instantiated in our particular time and place and Everett branch."
+
+"What category would do justice to GPT’s ability to not only reproduce the behavior of its demonstrators but to _produce_ the behavior of an inexhaustible number of counterfactual configurations?"
+
+---
+---
+
+## Simulators
+
+This note-taking exercise started as including selective quotes from _Simulators_ essay and lightly commenting them.
+
+But the last several paragraphs need to be included in their entirety, and now we have reached the section which needs to be fully read...
+
+So, a new mode of note-taking is needed.
