@@ -276,3 +276,22 @@ This note-taking exercise started as including selective quotes from _Simulators
 But the last several paragraphs need to be included in their entirety, and now we have reached the section which needs to be fully read...
 
 So, a new mode of note-taking is needed.
+
+**The text above is self-contained, one can read it instead of the initial part of the "Simulators" essay.**
+
+**The following text is just a comment on the "Simulators" section of the "Simulators" essay and assumes that the reader is reading that section.**
+
+"I’ve ended several of the above sections with questions pointing to desiderata of a category that might satisfactorily classify GPT.
+
+   * What is the word for something that roleplays minus the implication that _someone_ is behind the mask?
+
+   * What category, unlike the category of oracles, would make the importance of _process_ specification obvious?
+
+   * What category would do justice to GPT’s ability to not only reproduce the behavior of its demonstrators 
+     but to _produce_ the behavior of an inexhaustible number of counterfactual configurations?
+
+You can probably predict my proposed answer. The natural thing to do with a predictor that inputs a sequence and outputs a probability distribution over the next token is to sample a token from those likelihoods, then add it to the sequence and recurse, indefinitely yielding a _simulated_ future. Predictive sequence models in the generative modality are **simulators** of a learned distribution."
+
+...
+
+"The way this post is written may give the impression that I wracked my brain for a while over desiderata before settling on this word. Actually, I never made the conscious decision to call this class of AI “simulators.” Hours of GPT gameplay and the word fell naturally out of my generative model – I was obviously running simulations."
