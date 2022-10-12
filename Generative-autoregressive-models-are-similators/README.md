@@ -31,8 +31,12 @@ This subdirectory is for the materials related to this new understanding.
 
 ---
 
+### My reading notes:
+
 [reading-janus-gpt-wrangling.md](reading-janus-gpt-wrangling.md) - written
 
 [reading-simulators-essay.md](reading-simulators-essay.md) - in progress (60%)
+
+---
 
 _Work in progress_
