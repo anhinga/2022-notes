@@ -295,3 +295,29 @@ You can probably predict my proposed answer. The natural thing to do with a pred
 ...
 
 "The way this post is written may give the impression that I wracked my brain for a while over desiderata before settling on this word. Actually, I never made the conscious decision to call this class of AI “simulators.” Hours of GPT gameplay and the word fell naturally out of my generative model – I was obviously running simulations."
+
+---
+
+"I can’t convey all that experiential data here, so here are some rationalizations of why I’m partial to the term, inspired by the context of this post:
+
+    ...
+    
+    * **It suggests an ontological distinction between the simulator and things that are simulated, and avoids the fallacy of attributing contingent properties of the latter to the former.**
+    
+    * It’s not confusing that multiple simulacra can be instantiated at once, or an agent embedded in a tragedy, etc.
+    
+    * It does not imply that the AI’s behavior is well-described (globally or locally) as expected utility maximization. An arbitrarily powerful/accurate simulation can depict arbitrarily hapless sims.
+    
+    * It does not imply that the AI is only capable of emulating things with direct precedent in the training data. A physics simulation, for instance, can simulate any phenomena that plays by its rules.
+    
+    * It emphasizes the role of the model as a transition rule that evolves processes _over time_. The power of factored cognition / chain-of-thought reasoning is obvious.
+    
+    * It emphasizes the role of the state in specifying and constructing the agent/process. The importance of prompt programming for capabilities is obvious if you think of the prompt as specifying a configuration that will be propagated forward in time.
+    
+    * It emphasizes the interactive nature of the model’s predictions – even though they’re “just text”, you can converse with simulacra, explore virtual environments, etc.
+    
+    * It’s clear that in order to actually _do_ anything (intelligent, useful, dangerous, etc), the model must act through simulation of _something_.
+
+Just saying “this AI is a simulator” naturalizes many of the counterintuitive properties of GPT which don’t usually become apparent to people until they’ve had a lot of hands-on experience with generating text."
+
+---
