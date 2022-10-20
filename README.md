@@ -15,6 +15,6 @@ dictionaries:
   
 June 2022: First successful experiments in DMM training and in program synthesis/circuit synthesis/DMM synthesis 
 via neural architecture search using Zygote.jl. 
-The synthesized DMMs exibit pretty impressive generalization properties:
+The synthesized DMMs exhibit pretty impressive generalization properties:
 
 https://github.com/anhinga/DMM-synthesis-lab-journal/blob/main/history.md
