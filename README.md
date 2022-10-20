@@ -19,8 +19,7 @@ The synthesized DMMs exhibit pretty impressive generalization properties:
 
 https://github.com/anhinga/DMM-synthesis-lab-journal/blob/main/history.md
 
-## Transformer understanding breakthroughs in 2022 which I particularly like
+## Transformer understanding breakthroughs in 2022 which seem to be particularly important
 
 September 2022: [Generative autoregressive models are similators](Generative-autoregressive-models-are-similators)
 
-https://github.com/anhinga/2022-notes/tree/main/Generative-autoregressive-models-are-similators
