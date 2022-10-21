@@ -49,7 +49,7 @@ with our current DMM setup (by the standards Grokking research, in terms of the 
 and such, we certainly have not tried nearly hard enough yet)."
 
 I am not sure at the moment whether the preliminary observations of some remarkable generalization effects during DMM synthesis 
-are related to phenomena observed during Grokking run (https://github.com/anhinga/DMM-synthesis-lab-journal/blob/main/history.md)
+are related to phenomena observed during Grokking runs (https://github.com/anhinga/DMM-synthesis-lab-journal/blob/main/history.md)
 
 
 
