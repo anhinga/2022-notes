@@ -1,8 +1,8 @@
 # Grokking is (more or less) solved
 
 The most interesting conceptual AI advances in recent months seem to come from "prosaic alignment" start-ups. 
-These are companies which believe that the current trend of improving Transformer models is likely to lead straight to AGI, 
-and that better understanding of the nature and properties of these model is key to AI safety (and, of course, it's also key to better AI capabilities).
+These are companies which believe that the current trend of improving Transformer models is fairly likely to lead straight to AGI, 
+and that better understanding of the nature and properties of these models is key to AI safety (and, of course, it's also key to better AI capabilities).
 
 And it is often the case that the key elements of work are done by people "on the edge", "in the penumbra" of those alignment start-ups.
 
