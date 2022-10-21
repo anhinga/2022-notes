@@ -1,6 +1,6 @@
 # Grokking is (more or less) solved
 
-The most interesting conceptual AI advances seem lately to come from "prosaic alignment" start-ups. 
+The most interesting conceptual AI advances in recent months seem to come from "prosaic alignment" start-ups. 
 These are companies which believe that the current trend of improving Transformer models is likely to lead straight to AGI, 
 and that better understanding of the nature and properties of these model is key to AI safety (and, of course, it's also key to better AI capabilities).
 
@@ -15,7 +15,7 @@ That work has been done "while at Conjecture", but is not listed as directly com
 I believe that the key people involved are still at Conjecture, but it looks like they feel it's
 appropriate to keep some distance between Conjecture and this work. 
 
-I am continuing to take notes of those materials here: [Generative autoregressive models are similators](../Generative-autoregressive-models-are-similators)
+I am continuing to take notes of those materials here: [Generative autoregressive models are similators](../../tree/main/Generative-autoregressive-models-are-similators)
 
 ---
 
