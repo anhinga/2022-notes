@@ -2,10 +2,7 @@
 
 **Note: it looks like Grokking has been mostly solved by Neel Nanda in August 2022: [Grokking is solved](../../../tree/main/Grokking-is-solved)**
 
-The DMM training setup is presumably a perfect setup for Grokking (precise capture of simple tasks
-by moderately sized models). However, it is not clear how easy or difficult it would be to get there
-with our current DMM setup (by the standards Grokking research, in terms of the number of training steps
-and such, we certainly have not tried nearly hard enough yet).
+---
 
 Here are some Grokking resources:
 
@@ -39,3 +36,20 @@ Let's specifically note:
 "Multi-scale Feature Learning Dynamics: Insights for Double Descent", https://arxiv.org/abs/2112.03215 (with Yoshua Bengio)
 
 "Hidden Progress in Deep Learning: SGD Learns Parities Near the Computational Limit", https://arxiv.org/abs/2207.08799 (with Boaz Barak)
+
+---
+---
+---
+
+Historic note (I don't think this is directly relevant, but let's keep it to document the train of thoughts):
+
+"The DMM training setup is presumably a perfect setup for Grokking (precise capture of simple tasks
+by moderately sized models). However, it is not clear how easy or difficult it would be to get there
+with our current DMM setup (by the standards Grokking research, in terms of the number of training steps
+and such, we certainly have not tried nearly hard enough yet)."
+
+I am not sure at the moment whether the preliminary observations of some remarkable generalization effects during DMM synthesis 
+are related to phenomena observed during Grokking run (https://github.com/anhinga/DMM-synthesis-lab-journal/blob/main/history.md)
+
+
+
