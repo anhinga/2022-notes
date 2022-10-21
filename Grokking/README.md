@@ -1,5 +1,7 @@
 # Grokking resources
 
+** Note: it looks like Grokking has been mostly solved by Neel Nanda in August 2022: [Grokking is solved](../../tree/main/Grokking-is-solved.md)**
+
 The DMM training setup is presumably a perfect setup for Grokking (precise capture of simple tasks
 by moderately sized models). However, it is not clear how easy or difficult it would be to get there
 with our current DMM setup (by the standards Grokking research, in terms of the number of training steps
