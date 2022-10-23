@@ -33,6 +33,14 @@ https://twitter.com/NeelNanda5/status/1559060507524403200
 
 https://www.alignmentforum.org/posts/N6WM6hs7RQMKDhYjB/a-mechanistic-interpretability-analysis-of-grokking
 
+Highlights:
+
+  * Deep relationship between grokking and phase changes
+
+  * Grokking discovers an interpretable algorithms which uses discrete Fourier Transform and trigonometric identities
+
+  * Circuits smoothly develop during training (interpolates between memorization and generalization, gradually shifting from pure memorization to pure generalization)
+
 ---
 
 Neel Nanda wrote a number of other interesting things including
