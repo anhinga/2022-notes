@@ -321,3 +321,13 @@ You can probably predict my proposed answer. The natural thing to do with a pred
 Just saying “this AI is a simulator” naturalizes many of the counterintuitive properties of GPT which don’t usually become apparent to people until they’ve had a lot of hands-on experience with generating text."
 
 ---
+
+The simulation objective - Solving for physics
+
+"he upper bound of what can be learned from a dataset is not the most capable trajectory, but the conditional structure of the universe implicated by their sum"
+
+**"Guessing the right theory of physics is equivalent to minimizing predictive loss."**
+
+"**Models trained with the strict simulation objective are directly incentivized to reverse-engineer the (semantic) physics of the training distribution, and consequently, to propagate simulations whose dynamical evolution is indistinguishable from that of training samples.** I propose this as a description of the archetype targeted by self-supervised predictive learning, again in contrast to RL’s archetype of an agent optimized to maximize free parameters (such as action-trajectories) relative to a reward function."
+
+---
