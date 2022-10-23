@@ -340,5 +340,13 @@ Just saying “this AI is a simulator” naturalizes many of the counterintuitiv
 
 "Prompt Programming for Large Language Models: Beyond the Few-Shot Paradigm", https://arxiv.org/abs/2102.07350 ("Janus" is the first author of this paper) and other examples at Footnote 29: https://www.lesswrong.com/posts/vJFdjigzmcXMhNTsx/simulators#fnomelvf6lrng
 
+"Making the ontological distinction between GPT and instances of text which are propagated by it makes these discoveries unsurprising: obviously, different configurations will be differently capable and in general behave differently when animated by the laws of GPT physics. We can only test one configuration at once, and given the vast number of possible configurations that would attempt any given task, it’s unlikely we’ve found the optimal taker for _any_ test.
+
+In the simulation ontology, I say that GPT and its output-instances correspond respectively to the **simulator** and **simulacra**. **GPT** is to a **piece of text output by GPT** as **quantum physics** is to a **person taking a test**, or as **transition rules of Conway’s Game of Life** are to **glider**. The simulator is a time-invariant law which unconditionally governs the evolution of all simulacra."
+
+---
+
+#### Disambiguating rules and automata
+
 
 
