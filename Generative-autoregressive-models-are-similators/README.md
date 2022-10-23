@@ -35,8 +35,10 @@ This subdirectory is for the materials related to this new understanding.
 
 [reading-janus-gpt-wrangling.md](reading-janus-gpt-wrangling.md) - written
 
-[reading-simulators-essay.md](reading-simulators-essay.md) - in progress (90%)
+[reading-simulators-essay.md](reading-simulators-essay.md) - written
 
 ---
+
+### Thinking further about this topic
 
 _Work in progress_
