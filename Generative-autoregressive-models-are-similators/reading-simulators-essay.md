@@ -384,6 +384,10 @@ In my model, these updates dramatically alter the landscape of potential futures
 
 ## Next Steps
 
+This short section needs to be read in its entirety and meditated upon.
+
+"**Simulacra alignment.** What can and what should we simulate, and how do we specify/control it?"
+
 ---
 
 ## Appendix: Quasi-simulators
