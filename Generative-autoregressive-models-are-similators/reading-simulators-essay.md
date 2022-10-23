@@ -391,3 +391,7 @@ In my model, these updates dramatically alter the landscape of potential futures
 ### A note on GANs
 
 ### Table of quasi-simulators
+
+---
+
+Comments are very interesting, but I am not trying to incorporate their analysis in this write-up
