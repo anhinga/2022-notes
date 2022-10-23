@@ -370,3 +370,24 @@ Now I have updated to think that we will live, however briefly, alongside AI tha
 
 **The above is important to keep in mind ^^^**
 
+"GPT updated me on how simulation can be implemented with prosaic machine learning:
+
+  * **Self-supervised ML can create “behavioral” simulations of impressive semantic fidelity.** Whole brain emulation is not necessary to construct convincing and useful virtual humans; it is conceivable that observations of human behavioral traces (e.g. text) are sufficient to reconstruct functionally human-level virtual intelligence.
+
+  * **Learned simulations can be partially observed and lazily-rendered, and still work.** A couple of pages of text severely underdetermines the real-world process that generated text, so GPT simulations are likewise underdetermined. A “partially observed” simulation is more efficient to compute because the state can be much smaller, but can still have the effect of high fidelity as details can be rendered as needed. The tradeoff is that it requires the simulator to model semantics – human imagination does this, for instance – which turns out not to be an issue for big models.
+
+  * **Learned simulation generalizes impressively.** As I described in the section on behavior cloning, training a model to predict diverse trajectories seems to make it internalize general laws underlying the distribution, allowing it to simulate counterfactuals that can be constructed from the distributional semantics.
+
+In my model, these updates dramatically alter the landscape of potential futures, and thus motivate [exploratory engineering](https://intelligence.org/files/ExploratoryEngineeringAI.pdf) of the class of learned simulators for which GPT-3 is a lower bound. That is the intention of this sequence."
+
+---
+
+## Next Steps
+
+---
+
+## Appendix: Quasi-simulators
+
+### A note on GANs
+
+### Table of quasi-simulators
