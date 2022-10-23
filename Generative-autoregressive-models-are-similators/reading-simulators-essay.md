@@ -357,3 +357,16 @@ Distinguishing simulator from simulacra helps deconfuse some frequently-asked qu
 ---
 
 ### The limit of learned simulation
+
+**This is an important, non-trivial subsection**
+
+"By 2021, it was blatantly obvious that AGI was imminent. The elements of general intelligence were already known: access to information about the world, the process of predicting part of the data from the rest and then updating one’s model to bring it closer to the truth (…) and the fact that predictive models can be converted into generative models by reversing them: running a prediction model forwards predicts levels of X in a given scenario, but running it backwards predicts which scenarios have a given level of X. A sufficiently powerful system with relevant data, updating to improve prediction accuracy and the ability to be reversed to generate optimization of any parameter in the system is a system that can learn and operate strategically in any domain." - Aiyen
+
+"I knew, before, that the limit of simulation was possible. Inevitable, even, in timelines where exploratory intelligence continues to expand. My own mind attested to this. I took seriously the possibility that my reality could be simulated, and so on.
+
+But I implicitly assumed that **rich domain** simulations (e.g. _simulations containing intelligent sims_) would come _after_ artificial superintelligence, not on the way, short of brain uploading. This intuition seems common: in futurist philosophy and literature that I’ve read, pre-SI simulation appears most often in the context of whole-brain emulations.
+
+Now I have updated to think that we will live, however briefly, alongside AI that is not yet foom’d but which has _inductively_ learned a rich enough model of the world that it can simulate time evolution of open-ended rich states, e.g. coherently propagate human behavior embedded in the real world."
+
+**The above is important to keep in mind ^^^**
+
