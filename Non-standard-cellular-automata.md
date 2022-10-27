@@ -14,7 +14,7 @@ Multiple Neighborhoods Cellular Automata:
 
 [Multiple Neighborhoods Cellular Automata](https://softologyblog.wordpress.com/2018/03/09/multiple-neighborhoods-cellular-automata/) by Softology
 
-[Cellular Automata - from Game of Life to Compound](https://tatasz.github.io/compound_ca/) by tatasz
+[Cellular Automata - from Game of Life to Compound](https://tatasz.github.io/compound_ca/) by TataSZ
 
 ---
 
