@@ -1,3 +1,5 @@
+# Some non-standard cellular automata
+
 Mostly I am listing work which emerged quite recently, with one exception:
 
 Peter Gacs and probabilistic cellular automata:
