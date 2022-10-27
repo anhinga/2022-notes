@@ -41,8 +41,9 @@ For example: [HyperNCA: Growing Developmental Networks with Neural Cellular Auto
 
 and [Collective control of modular soft robots via embodied Spiking...](https://openreview.net/forum?id=STGXXBGJ6-c)
 
-Alex Mordvintsev (who created DeepDream in 2015: https://en.wikipedia.org/wiki/DeepDream 
-This is based on taking a pre-trained neural network with fixed weights, 
+Alex Mordvintsev who created DeepDream in 2015: https://en.wikipedia.org/wiki/DeepDream 
+
+DeepDream is based on taking a pre-trained neural network with fixed weights, 
 defining a loss function expressing the intensity of the activity of a subset of this network, 
 and taking gradients of this new loss function with respect to the input images).
 
