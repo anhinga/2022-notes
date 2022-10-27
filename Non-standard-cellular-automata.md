@@ -39,7 +39,7 @@ https://github.com/rivesunder/yuca
 
 For example: [HyperNCA: Growing Developmental Networks with Neural Cellular Automata](https://openreview.net/forum?id=H5eErMka-9)
 
-and [Collective control of modular soft robots via embodied Spiking...](https://openreview.net/forum?id=STGXXBGJ6-c)
+and [Collective control of modular soft robots via embodied Spiking Neural Cellular Automata](https://openreview.net/forum?id=STGXXBGJ6-c)
 
 Alex Mordvintsev who created DeepDream in 2015: https://en.wikipedia.org/wiki/DeepDream 
 
