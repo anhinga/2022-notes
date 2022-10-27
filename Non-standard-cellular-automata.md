@@ -28,7 +28,7 @@ https://en.wikipedia.org/wiki/Lenia
 
 "Glaberish: Generalizing the continuously-valued Lenia framework to arbitrary Life-like cellular automata", https://arxiv.org/abs/2205.10463
 
-[Your Universal Cellular Automata](https://rivesunder.github.io/yuca/) by rivesunder
+[Your Universal Cellular Automata](https://rivesunder.github.io/yuca/) by RiveSunder
 
 https://github.com/rivesunder/yuca
 
