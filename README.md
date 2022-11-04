@@ -19,6 +19,10 @@ The synthesized DMMs exhibit pretty impressive generalization properties:
 
 https://github.com/anhinga/DMM-synthesis-lab-journal/blob/main/history.md
 
+September 2022: The June experiments are open sourced, and the roadmap is updated to reflect that:
+
+https://anhinga.github.io/brandeis-mirror/towards-practical-dmms.pdf
+
 ## Transformer understanding breakthroughs in 2022 which seem to be particularly important
 
 August 2022: [Grokking is solved](Grokking-is-solved)
