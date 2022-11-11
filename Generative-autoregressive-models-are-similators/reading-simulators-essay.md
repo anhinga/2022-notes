@@ -11,7 +11,7 @@ The two main topics of the essay are
 
   * _Generative autoregressive models created by self-supervised pretraining_ are **simulators**; one interacts not with these models themselves, but with **simulacra** they create.
 
-This is mostly talking about Transformers driver by linguistic prompts, but the degree of generality of this consideration is `"models trained with predictive loss on a self-supervised dataset, invariant to architecture or data type (natural language, code, pixels, game states, etc)"`.
+This is mostly talking about Transformers driven by linguistic prompts, but the degree of generality of this consideration is `"models trained with predictive loss on a self-supervised dataset, invariant to architecture or data type (natural language, code, pixels, game states, etc)"`.
 
 ```
 The outer objective of self-supervised learning is Bayes-optimal conditional inference over the prior of the training distribution,
