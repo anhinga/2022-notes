@@ -33,7 +33,7 @@ This subdirectory is for the materials related to this new understanding.
 
 ### My reading notes:
 
-[reading-janus-gpt-wrangling.md](reading-janus-gpt-wrangling.md) - written (this page also contains links to some tools and papers by "Janus" including her **loom** tool and "Prompt Programming for Large Language Models: Beyond the Few-Shot Paradigm" paper, https://arxiv.org/abs/2102.07350)
+[reading-janus-gpt-wrangling.md](reading-janus-gpt-wrangling.md) - written (this page also contains links to some tools and papers by "Janus" including their **loom** tool and "Prompt Programming for Large Language Models: Beyond the Few-Shot Paradigm" paper, https://arxiv.org/abs/2102.07350)
 
 [reading-simulators-essay.md](reading-simulators-essay.md) - written
 
