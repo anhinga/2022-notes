@@ -4,6 +4,10 @@ This is a continuation of
 
 https://github.com/anhinga/2021-notes
 
+This is continued at
+
+https://github.com/anhinga/2023-notes
+
 ## My 2022 updates
 
 April 2022: Modern differentiable programming frameworks are capable of taking gradients with respect to variables stored inside nested
