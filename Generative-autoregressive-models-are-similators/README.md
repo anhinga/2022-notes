@@ -39,6 +39,14 @@ This subdirectory is for the materials related to this new understanding.
 
 ---
 
+[May-23-2023-status-update.md](May-23-2023-status-update.md) - status update on Janus' Simulator theory
+
+I also think there is a lot of value in thinking how to control a given simulation directly 
+(pretend that the Simulator theory is literally correct and see how much can you squeeze from that
+in terms of performance and quality of the simulaton runs).
+
+---
+
 ### Thinking further about this topic
 
 _Work in progress_
