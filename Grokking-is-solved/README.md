@@ -45,3 +45,11 @@ Neel Nanda wrote a number of other interesting things including
 his recent take on the famous Anthropic paper he was involved in, "A Mathematical Framework for Transformer Circuits":
 
 https://twitter.com/NeelNanda5/status/1580782930304978944
+
+---
+
+January 2023: There is now a paper, Neel Nanda et al., "Progress measures for grokking via mechanistic interpretability":
+
+https://arxiv.org/abs/2301.05217
+
+https://www.progress-measures-grokking.io/
