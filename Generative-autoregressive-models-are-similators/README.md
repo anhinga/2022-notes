@@ -45,6 +45,8 @@ I also think there is a lot of value in thinking how to control a given simulati
 (pretend that the Simulator theory is literally correct and see how much can you squeeze from that
 in terms of performance and quality of the simulaton runs).
 
+[November-8-2023-Nature-paper.md](November-8-2023-Nature-paper.md) - a publication in _Nature_
+
 ---
 
 ### Thinking further about this topic
