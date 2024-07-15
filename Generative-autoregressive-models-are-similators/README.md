@@ -1,4 +1,4 @@
-# Generative autoregressive models are similators
+# Generative autoregressive models are simulators
 
 A radical novel understanding of the nature of GPT-3-like models seems to be crystallizing.
 
