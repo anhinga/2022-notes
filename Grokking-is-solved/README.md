@@ -48,8 +48,20 @@ https://twitter.com/NeelNanda5/status/1580782930304978944
 
 ---
 
-January 2023: There is now a paper, Neel Nanda et al., "Progress measures for grokking via mechanistic interpretability":
+**January 2023:** There is now a paper, Neel Nanda et al., "Progress measures for grokking via mechanistic interpretability":
 
 https://arxiv.org/abs/2301.05217
 
 https://www.progress-measures-grokking.io/
+
+---
+
+**August 2024:** There is now a lot of literature on this. Here are two papers which seem particularly important:
+
+"The Clock and the Pizza: Two Stories in Mechanistic Explanation of Neural Networks"
+
+  * https://arxiv.org/abs/2306.17844 Ziqian Zhong, Ziming Liu, Max Tegmark, Jacob Andreas
+  * https://openreview.net/forum?id=S5wmbQc1We NeurIPS 2023 oral
+  * "Small changes to model hyperparameters and initializations can induce the discovery of qualitatively different algorithms from a fixed training set, and even parallel implementations of multiple such algorithms. Some networks trained to perform modular addition implement a familiar Clock algorithm; others implement a previously undescribed, less intuitive, but comprehensible procedure which we term the Pizza algorithm, or a variety of even more complex procedures. Our results show that even simple learning problems can admit a surprising diversity of solutions, motivating the development of new tools for characterizing the behavior of neural networks across their algorithmic phase space." 
+
+
